@@ -7,7 +7,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className={``}>
+    <main className={`scroll-smooth`}>
       <Hero />
       <Headshot />
       <WhyImDifferent />
@@ -32,7 +32,7 @@ function Hero() {
   ];
 
   return (
-    <div className="bg-amber-50">
+    <div className="bg-amber-50 scroll-smooth">
       <header className="absolute inset-x-0 top-0 z-50 bg-amber-50">
         <nav className="mx-auto flex max-w-7xl justify-between p-6 lg:px-8">
           <div className="flex lg:flex-1">

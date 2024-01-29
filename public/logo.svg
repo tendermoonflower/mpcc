@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 9934 14044" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,11.3102,190.149)">
+        <g transform="matrix(0.405496,0,0,0.405496,3969.11,4171.45)">
+            <path d="M1768.13,3228.95L5303.51,3429.21L7227.45,5581.73L7126.99,5469.34L6370.45,5294.01L5431.9,5095.14L5425.62,5673.1C5425.62,5673.1 5483.21,5409.77 4104.02,5075.05C3036.22,4815.9 2826.62,5028.77 2826.62,5028.77L3078.61,4541.31C3078.61,4541.31 3264.62,4178.89 4174.23,4204.09C4239.85,4205.9 4610.88,4221.64 4929.7,4377.27C5012.22,4417.55 5010.75,4343.43 5011.7,4331.92C5022.12,4206.13 5049.36,4225.89 4900.2,4161.2C4865.26,4146.04 4759.47,4091.84 4457.36,4039.21C4317.24,4014.8 3926.85,3994.44 3548.66,4099.55C3217.87,4191.48 2984.47,4447.04 2984.47,4447.04L1768.13,3228.95Z" style="fill:rgb(0,24,88);"/>
+            <g transform="matrix(1,0,0,1,-667.605,-327.288)">
+                <path d="M6383.46,4602.29L6477.26,4695.54L6482.47,4943.58L7133.42,5415.5L6507.98,5429.65L6506.45,5856.49L6553.69,5857.49L6556.01,6031.81L6502.6,6032L6702.82,6972.55L6290.06,6979.25L6370.16,6035.45L6327.64,6035.46L6328.57,5855.91L6386.5,5855.88L6383.46,4602.29Z" style="fill:rgb(0,24,88);"/>
+            </g>
+            <g transform="matrix(1.09644,0.272782,-0.375575,1.50961,1768.25,-3881.38)">
+                <ellipse cx="3997.66" cy="5404.81" rx="1185.33" ry="265.01" style="fill:rgb(0,24,88);"/>
+            </g>
+        </g>
+        <g transform="matrix(1.23099,0,0,1.23099,-85.1982,-5143.76)">
+            <text x="1549.99px" y="10085.8px" style="font-family:'RedHatDisplay-Black', 'Red Hat Display';font-weight:900;font-size:1631.46px;fill:rgb(0,24,88);fill-opacity:0;">me</text>
+            <text x="4036.34px" y="10085.8px" style="font-family:'RedHatDisplay-Black', 'Red Hat Display';font-weight:900;font-size:1631.46px;fill:rgb(0,24,88);">g</text>
+            <text x="5087px" y="10085.8px" style="font-family:'RedHatDisplay-Black', 'Red Hat Display';font-weight:900;font-size:1631.46px;fill:rgb(0,24,88);fill-opacity:0;">an</text>
+        </g>
+    </g>
+    <g transform="matrix(1.23099,0,0,1.23099,-30.9261,-4273.28)">
+        <text x="1549.99px" y="10085.8px" style="font-family:'RedHatDisplay-Black', 'Red Hat Display';font-weight:900;font-size:1631.46px;fill:rgb(0,24,88);">me</text>
+        <text x="4036.34px" y="10085.8px" style="font-family:'RedHatDisplay-Black', 'Red Hat Display';font-weight:900;font-size:1631.46px;fill:rgb(0,24,88);fill-opacity:0;">g</text>
+        <text x="5087px" y="10085.8px" style="font-family:'RedHatDisplay-Black', 'Red Hat Display';font-weight:900;font-size:1631.46px;fill:rgb(0,24,88);">an</text>
+    </g>
+    <g transform="matrix(4.81817,0,0,4.81817,-4343.77,-45230.8)">
+        <text x="1305.26px" y="11313px" style="font-family:'RedHatDisplay-Medium', 'Red Hat Display';font-weight:500;font-size:231.096px;fill:rgb(0,24,88);">do<tspan x="1584.89px 1718.46px " y="11313px 11313px ">es</tspan> c<tspan x="1990px " y="11313px ">o</tspan>lle<tspan x="2362.53px 2501.88px 2627.36px " y="11313px 11313px 11313px ">ge.</tspan></text>
+    </g>
+</svg>

@@ -31,3 +31,12 @@ body {
     text-wrap: balance;
   }
 }
+
+.serif {
+  font-family: "Zilla Slab", serif;
+}
+
+.grid-indigo {
+  background-image: radial-gradient(#f2afca 2px, transparent 2px);
+  background-size: 16px 16px;
+}

@@ -161,7 +161,7 @@ function Headshot() {
           />
           <div className="w-full flex-auto">
             <h2 className="text-3xl font-bold tracking-tight text-blue-950 sm:text-4xl">
-              about me...
+             About Me
             </h2>
             <p className="mt-6 text-lg leading-8 text-blue-950">
               Megan is a graduate from UC Berkeley (2018) where she earned a
@@ -194,10 +194,9 @@ function WhyImDifferent() {
           <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-blue-950 lg:max-w-none lg:grid-cols-2">
             <div>
               <p>
-                An exceptional SAT score or a perfect GPA often fails to make a
-                personal connection with an admissions officer. What can bridge
-                this gap is a piece of authentic personal writing. Unlike
-                standardized test scores or academic achievements, a genuine
+                An exceptional SAT score or a perfect GPA is not enough to create a
+                personal connection with an admissions officer. But what can is a piece of authentic 
+                personal writing. Unlike standardized test scores or academic achievements, a genuine
                 essay offers a glimpse into the applicant&apos;s unique
                 personality and life experiences.
               </p>
@@ -212,9 +211,9 @@ function WhyImDifferent() {
             </div>
             <div>
               <p>
-                My own experiences with these prep companies have shaped my
-                approach to college essay coaching. I believe in taking a
-                slower, more thoughtful path, one that focuses on building a
+                My experiences with these prep companies has shaped my
+                 college coaching philosophy. I believe in taking a
+                slower, more thoughtful approach, one that focuses on building a
                 real connection with each student. This approach goes beyond
                 just writing an essay; it involves understanding the
                 student&apos;s unique story and helping them express it
@@ -330,7 +329,7 @@ function Services() {
             Services
           </p>
           <h1 className="mt-2 text-3xl font-bold tracking-tight text-blue-950 sm:text-4xl">
-            How I help my students
+            How I Help My Students
           </h1>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
@@ -532,8 +531,7 @@ function WorkTogether() {
               Let&apos;s work together
             </h3>
             <p className="mt-2 text-sm leading-6 text-white">
-              I&apos;m Megan. Email me at meganpwriteswithyou@gmail.com or call
-              me at (222) 222-2222.
+              I&apos;m Megan. Email me at meganpwriteswithyou@gmail.com 
             </p>
           </div>
         </div>

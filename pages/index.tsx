@@ -484,7 +484,7 @@ const TestimonialComponent = () => {
           >
             <p>
               Before meeting Megan, my parents signed me up for counseling through
-              another service. There was no one-on-one attnetion, so I always felt stuck
+              another service. There was no one-on-one attention, so I always felt stuck
               in the same place because there was no continuity and the "help" was pretty lazy.
               Working with Megan was like night and day. She looked at my profile as a whole, and
               helped me come up with essay topics that I could use to tie in all of my activities,

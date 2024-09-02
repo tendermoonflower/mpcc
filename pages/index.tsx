@@ -483,26 +483,23 @@ const TestimonialComponent = () => {
             }`}
           >
             <p>
-              After only one meeting with Megan, I knew she would connect with
-              my daughter as a mentor, advisor and peer. Over the course of the
-              engagement, Megan struck the right balance of encouragement and
-              push to motivate my daughter to make steady progress on her
-              essays. She communicated with me throughout with status updates
-              and proactively asked for my help when needed or when my daughter
-              was not immediately responsive to her outreach. Megan&apos;s
-              guidance on my daughter&apos;s writing was of course most
-              important and reflected her ability to raise the quality and
-              creativity of my daughter&apos;s essays while working with her
-              inherent style. I&apos;d certainly recommend Megan for any parents
-              looking for a counselor with the skill to get the most out of
-              their child in what can be a stressful but important process.
+              Before meeting Megan, my parents signed me up for counseling through
+              another service. There was no one-on-one attnetion, so I always felt stuck
+              in the same place because there was no continuity and the "help" was pretty lazy.
+              Working with Megan was like night and day. She looked at my profile as a whole, and
+              helped me come up with essay topics that I could use to tie in all of my activities,
+              interests, and aspirations - it's actually crazy how you think and were
+              able to make connections between things that I didn't even see at first.
+              No way would someone at C2 have spent that much time thiking with and about me, and no
+              way would they be creative enough to guide me like you did. I think you really saw the best in me,
+              and I'm glad you did because I don't think I would have made it to UChicago otherwise.
             </p>
             <div className="text-center my-8" x-show="testimonialActive == 1">
               <h2 className="text-sm xl:text-base font-bold text-rose-600 leading-tight">
-                Rio Krauss
+                Sarthak Pani
               </h2>
               <small className="text-rose-400 text-xs xl:text-sm truncate">
-                UC Santa Barbara &apos;26, BS in Economics
+                University of Chicago 2026
               </small>
             </div>
           </div>

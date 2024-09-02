@@ -504,6 +504,33 @@ const TestimonialComponent = () => {
             </div>
           </div>
 
+           {/* Testimonial 4 */}
+          <div
+            className={`h-full relative z-10 flex flex-col justify-between  ${
+              testimonialActive === 2 ? "" : "hidden"
+            }`}
+          >
+            <p>
+              As a parent, it was really incredible to see how well Megan worked with
+              my daughter and her friends. She had an incredible ability to connect and 
+              build trust, she gave my daughter great outside resources to help her
+              develop her ideas, and made sure that my daughter stayed on track. Seeing the 
+              before-and-after essays, it was obvious how much she had pushed my daughter
+              to create something strong and unique. Because of her guidance, my daughter
+              was able to get into the reach schools her high school counselor
+              was discouraging her from applying to. I highly recommend Megan's services.
+        
+            </p>
+            <div className="text-center my-8" x-show="testimonialActive == 1">
+              <h2 className="text-sm xl:text-base font-bold text-rose-600 leading-tight">
+                Bettina Levy
+              </h2>
+              <small className="text-rose-400 text-xs xl:text-sm truncate">
+                parent
+              </small>
+            </div>
+          </div>
+
           {/* Other elements like buttons, names, etc. */}
         </div>
       </div>

@@ -502,6 +502,25 @@ const TestimonialComponent = () => {
             </div>
           </div>
 
+               {/* Testimonial 4 */}
+          <div
+            className={`h-full relative z-10 flex flex-col justify-between  ${
+              testimonialActive === 4 ? "" : "hidden"
+            }`}
+          >
+            <p>
+            blah blah
+            </p>
+            <div className="text-center my-8" x-show="testimonialActive == 1">
+              <h2 className="text-sm xl:text-base font-bold text-rose-600 leading-tight">
+                NAME
+              </h2>
+              <small className="text-rose-400 text-xs xl:text-sm truncate">
+                SCHOOL
+              </small>
+            </div>
+          </div>
+
           {/* Other elements like buttons, names, etc. */}
         </div>
       </div>

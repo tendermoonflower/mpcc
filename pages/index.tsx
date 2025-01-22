@@ -265,7 +265,7 @@ function TheProcess() {
       id: 5,
       question: "january",
       answer:
-        "After applications are submitted, some students may be asked to submit additional essays, a Letter of Continued interest in the case they are waitlisted, or asked to participate in an interview. I am avaialbe by appointment to provide support.",
+        "After applications are submitted, some students may be asked to submit additional essays, a Letter of Continued interest in the case they are waitlisted, or asked to participate in an interview. I am available by appointment to provide support.",
     },
   ];
 

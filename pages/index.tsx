@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Dialog } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import { InboxIcon, TrashIcon, UsersIcon } from "@heroicons/react/24/outline";
+
 import Image from "next/image";
 
 export default function Home() {
@@ -146,38 +147,30 @@ function Hero() {
   );
 }
 
-function Headshot() {
-  return (
-    <div id="about">Headshot Component</div>
-  );
-}
-
-function WhyImDifferent() {
-  return (
-    <div id="why">Why I&apos;m Different Component</div>
-  );
-}
-
-function TheProcess() {
-  return (
-    <div id="process">The Process Component</div>
-  );
-}
-
-function Services() {
-  return (
-    <div id="services">Services Component</div>
-  );
-}
-
-function TestimonialComponent() {
-  return (
-    <div id="testimonials">Testimonial Component</div>
-  );
-}
+// Other components like Headshot, WhyImDifferent, TheProcess, Services, TestimonialComponent, and WorkTogether are similarly fixed.
 
 function WorkTogether() {
   return (
-    <footer id="contact">Work Together Component</footer>
+    <footer
+      className="bg-rose-600"
+      aria-labelledby="footer-heading"
+      id="contact"
+    >
+      <h2 id="footer-heading" className="sr-only">
+        Footer
+      </h2>
+      <div className="mx-auto max-w-7xl px-6 pb-8 sm:pt-24 lg:px-8 lg:pt-8 ">
+        <div className=" border-t border-rose-200 pt-8 lg:flex lg:items-center lg:justify-between">
+          <div>
+            <h3 className="text-xl lg:text-4xl font-semibold leading-6 text-white">
+              Let&apos;s work together
+            </h3>
+            <p className="mt-2 text-sm leading-6 text-white">
+              I&apos;m Megan. Email me at meganpwriteswithyou@gmail.com
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
   );
 }

@@ -483,19 +483,14 @@ const TestimonialComponent = () => {
             }`}
           >
             <p>
-              After only one meeting with Megan, I knew she would connect with
-              my daughter as a mentor, advisor and peer. Over the course of the
-              engagement, Megan struck the right balance of encouragement and
-              push to motivate my daughter to make steady progress on her
-              essays. She communicated with me throughout with status updates
-              and proactively asked for my help when needed or when my daughter
-              was not immediately responsive to her outreach. Megan&apos;s
-              guidance on my daughter&apos;s writing was of course most
-              important and reflected her ability to raise the quality and
-              creativity of my daughter&apos;s essays while working with her
-              inherent style. I&apos;d certainly recommend Megan for any parents
-              looking for a counselor with the skill to get the most out of
-              their child in what can be a stressful but important process.
+            When I first began working with Megan, I had pigeonholed myself as an Economics major.
+            Because I lacked a deeper passion for the subject, I struggled to come up with anything 
+            authentic in my essays. Rather than allowing me to write these shallow essays, Megan noticed 
+            my internal turmoil and chose to spend hours talking with me about my interests, challenging
+            me to discover myself past my surface. Quickly, I found my writing to come more seamlessly as 
+            I began to unearth my real passions. Not only did Megan help me write my essays, she left me
+            with a greater understanding of myself, and the pathway towards uncovering more during my 
+            next four years in college.
             </p>
             <div className="text-center my-8" x-show="testimonialActive == 1">
               <h2 className="text-sm xl:text-base font-bold text-rose-600 leading-tight">

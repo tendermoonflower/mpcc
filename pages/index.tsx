@@ -649,7 +649,7 @@ const TestimonialComponent = () => {
           You looked at my profile as a whole, and you helped me come up with essay topics that 
           I could use to tie in all of my activities, all of my aspirations, etc. and that&apos;s really important,
           because how are you supposed to build a strong profile if all of your essays are about different things 
-          and don&apos;t even tie in together. It's actually crazy how you think and were able to make connections 
+          and don&apos;t even tie in together. It&apos;s actually crazy how you think and were able to make connections 
           between things that I didn&apos;t even see at first. I don&apos;t think I understood what it meant to reflect on 
           myself until I met you. No way would someone at C2 have spent that much time thinking with me, and you didn&apos;t 
           let me get away with lazy thinking. I think you really saw the best in me and you really really pushed me to 

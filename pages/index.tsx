@@ -164,9 +164,8 @@ function Headshot() {
              About Me
             </h2>
             <p className="mt-6 text-lg leading-8 text-blue-950">
-              Megan is a graduate from UC Berkeley (2018) where she earned a
-              bachelor’s degree in Political Science, and has been working as a
-              College Counselor and Essay Editor ever since. In 2021, she
+              Megan is a graduate from UC Berkeley and has been working as a
+              College Counselor and Essay Editor since 2018. In 2021, she
               completed her Certificate in College Admissions and Career
               Planning through UC Berkeley Extension. She has worked with a
               handful of prep companies around the Bay Area and Silicon Valley,
@@ -194,25 +193,26 @@ function WhyImDifferent() {
           <div className="mt-10 grid max-w-xl grid-cols-1 gap-8 text-base leading-7 text-blue-950 lg:max-w-none lg:grid-cols-2">
             <div>
               <p>
-                An exceptional SAT score or a perfect GPA is not enough to create a
-                personal connection with an admissions officer. But what can is a piece of authentic 
-                personal writing. Unlike standardized test scores or academic achievements, a genuine
+
+                An exceptional SAT score or perfect GPA is not enough to create a personal connection with an admissions officer
+                - but a piece of authentic personal writing just might. Unlike standardized test scores or academic achievements, a genuine
                 essay offers a glimpse into the applicant&apos;s unique
                 personality and life experiences.
+              
               </p>
               <p className="mt-8">
-                However, the approach of most prep companies is primarily
-                profit-driven. They tend to accept the first idea a student
-                proposes, make only superficial edits for organization or word
-                choice, and then quickly move on. This method might be efficient
-                for producing a high volume of essays, but it lacks the depth
-                and reflection needed to truly engage a reader.
+
+                For most prep companies, profit is the bottom line. They run with the first
+                idea a student comes up with, provide superficial edits for organization or word-choice, and then rinse and
+                repeat. This is great for churning out a high volume of essays quickly, but fails to prompt
+                the type of reflection that will spark something in a reader. 
+                
               </p>
             </div>
             <div>
               <p>
-                My experiences with these prep companies has shaped my
-                 college coaching philosophy. I believe in taking a
+
+                My expereiences with these companies have shaped my counseling philosophy.I believe in taking a
                 slower, more thoughtful approach, one that focuses on building a
                 real connection with each student. This approach goes beyond
                 just writing an essay; it involves understanding the

@@ -366,11 +366,11 @@ const TestimonialComponent = () => {
   const [testimonialActive, setTestimonialActive] = useState(2);
 
   const handlePrevClick = () => {
-    setTestimonialActive(testimonialActive === 1 ? 4 : testimonialActive - 1);
+    setTestimonialActive(testimonialActive === 1 ? 6 : testimonialActive - 1);
   };
 
   const handleNextClick = () => {
-    setTestimonialActive(testimonialActive >= 4 ? 1 : testimonialActive + 1);
+    setTestimonialActive(testimonialActive >= 6 ? 1 : testimonialActive + 1);
   };
 
   return (

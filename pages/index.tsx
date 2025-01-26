@@ -535,12 +535,12 @@ const TestimonialComponent = () => {
             <p>
             Megan was a pleasure to work with throughout my college application process. 
               I came in with a rather stale writing style: straightforward, unamusing, and 
-              writing like a 30-year-old. But with Megan's guidance through weekly meetings 
+              writing like a 30-year-old. But with Megan&apos;s guidance through weekly meetings 
               and exemplar pieces, I came to develop a more personable and vibrant writing 
-              style that captured my authentic voice. Not to mention, the weekly 1-on-1s were 
-              super helpful for brainstorming essay ideas and making revisions, and Megan's 
+              style that captured my authentic voice. Not to mention, the weekly 1-on-1&apos;s were 
+              super helpful for brainstorming essay ideas and making revisions, and Megan&apos;s 
               relatable personality made this stressful process feel more enjoyable. Overall, 
-              Megan's expertise enabled me to showcase my best self and ultimately earn admission 
+              Megan&apos;s expertise enabled me to showcase my best self and ultimately earn admission 
               to one of my top-choice schools!
             </p>
             <div className="text-center my-8" x-show="testimonialActive == 1">
@@ -564,7 +564,7 @@ const TestimonialComponent = () => {
               Megan provided me with clear directions from the start. She pushed me to see past
               my simplistic thoughts for essays, guiding me through my tangled thought-process and
               helping me create a well-written essay. Her mindset was not just to help with essays,
-              but rather to build advanced writers, allowing me to carry the skills I’ve learned into
+              but rather to build advanced writers, allowing me to carry the skills I&apos;ve learned into
               the rest of my life. Throughout the stressful process, Megan proved to be not only a successful
               college counselor but also a life counselor. As a result of her work, I have finally established
               guiding values that I follow in my life and more thoroughly understand who I am. Megan is a

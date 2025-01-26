@@ -593,7 +593,7 @@ const TestimonialComponent = () => {
           If you are interested in getting into the best schools possible, learning how to write,
           and learning about yourself in the process, Megan will bring that potential out of you.
           She is fun and sweet and super smart and has a special way of connecting with students,
-          AND at the same time, she has frustratingly high expectations, which I'm sure parents will
+          AND at the same time, she has frustratingly high expectations, which I&apos;m sure parents will
           appreciate. Just based on what I heard from my sister and some of my friends, there are
           counselors out there who are just interested in preying on families who want the best for
           their kids and will OK any essay that looks and sounds like an essay but Megan will push
@@ -617,13 +617,13 @@ const TestimonialComponent = () => {
             }`}
           >
             <p>
-          I used Megan's services as a senior in high school, hoping to get a second opinion 
+          I used Megan&apos;s services as a senior in high school, hoping to get a second opinion 
           after my main college counselor had vetted my work. After discussing it with her,
           she saw a large room for improvement and pushed me to create deeper, more polished
           essays. While my other counselor charged an arm and a leg to help me prepare the
           bare minimum, Megan helped me excel in my writing. Fast forward two years; personal
           matters prompted me to transfer universities, and I was able to use her services once
-          more. Despite reaching out at the last minute, Megan made time and didn't take shortcuts
+          more. Despite reaching out at the last minute, Megan made time and didn&apos;t take shortcuts
           when it came to putting my best foot forward. I am super grateful for her guidance
           throughout my college application process!
 
@@ -647,13 +647,13 @@ const TestimonialComponent = () => {
             <p>
           After trying out a standard prep company, working with you was like night and day. 
           You looked at my profile as a whole, and you helped me come up with essay topics that 
-          I could use to tie in all of my activities, all of my aspirations, etc. and that's really important,
+          I could use to tie in all of my activities, all of my aspirations, etc. and that&apos;s really important,
           because how are you supposed to build a strong profile if all of your essays are about different things 
-          and don't even tie in together. It's actually crazy how you think and were able to make connections 
-          between things that I didn't even see at first. I don't think I understood what it meant to reflect on 
-          myself until I met you. No way would someone at C2 have spent that much time thinking with me, and you didn't 
+          and don&apos;t even tie in together. It's actually crazy how you think and were able to make connections 
+          between things that I didn&apos;t even see at first. I don&apos;t think I understood what it meant to reflect on 
+          myself until I met you. No way would someone at C2 have spent that much time thinking with me, and you didn&apos;t 
           let me get away with lazy thinking. I think you really saw the best in me and you really really pushed me to 
-          be that person, and I'm glad you did because I don't think I would have made it to UChicago otherwise.
+          be that person, and I&apos;m glad you did because I don&apos;t think I would have made it to UChicago otherwise.
 
             </p>
             <div className="text-center my-8" x-show="testimonialActive == 1">
@@ -673,17 +673,17 @@ const TestimonialComponent = () => {
             }`}
           >
             <p>
-          My favorite thing about Megan’s approach to essay-writing is that she makes the essays
-          very reflective and personal of our lives. A lot of other essay-writing companies I’ve heard about 
-          from friends have said that their essays felt sort of shallow and didn’t sound like who they truly were.
+          My favorite thing about Megan&apos;s approach to essay-writing is that she makes the essays
+          very reflective and personal of our lives. A lot of other essay-writing companies I&apos;ve heard about 
+          from friends have said that their essays felt sort of shallow and didn&apos;t sound like who they truly were.
          Megan advised me to do free-writing all through summer on many different prompts that forced me to dig down 
         into what my values are, and after figuring that out, she had me find where my values were reflected in my 
         extracurriculars and write from that point of view. Through doing this, my essays came out with much more
-        depth and personality while also displaying my extracurriculars in a way that didn’t seem shallow.
+        depth and personality while also displaying my extracurriculars in a way that didn&apos;t seem shallow.
           Megan also took the time to really get to know me so she could best gauge which direction to point me
           in when I had multiple ideas and figured out the best way to explain fixes in my essays.
           Her edits also helped my ideas flow much better without changing my style of writing,
-          something I think is more unique to her style of essay-writing. I wouldn’t think twice
+          something I think is more unique to her style of essay-writing. I wouldn&apos;t think twice
           about choosing Megan for counseling, she is incredible!
 
 

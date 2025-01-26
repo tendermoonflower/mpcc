@@ -497,7 +497,7 @@ const TestimonialComponent = () => {
                 Rio Krauss
               </h2>
               <small className="text-rose-400 text-xs xl:text-sm truncate">
-                UC Santa Barbara &apos;26, BS in Economics
+                UC Santa Barbara 26, BS in Media Studies
               </small>
             </div>
           </div>
@@ -509,15 +509,95 @@ const TestimonialComponent = () => {
             }`}
           >
             <p>
-            blah blah
+            Megan is an incredibly professional and efficient counselor, and throughout the application process, 
+            her time management and expertise shone through. I was able to finish essays early and fine-tune them
+            without pressure from an upcoming deadline. Her unique ability to cultivate creative and compelling 
+            essays was what made writing with her throughout the college application process so enjoyable. I was 
+            able to write distinctive essays that got me into schools like Johns Hopkins and Stanford. I truly 
+            could not have done it with her help and I highly recommend working with her. 
             </p>
             <div className="text-center my-8" x-show="testimonialActive == 1">
               <h2 className="text-sm xl:text-base font-bold text-rose-600 leading-tight">
-                NAME
+              Sarah Yao
               </h2>
               <small className="text-rose-400 text-xs xl:text-sm truncate">
-                SCHOOL
+                Stanford 25, Pre-Medicine
               </small>
+            </div>
+          </div>
+
+             {/* Testimonial 5 */}
+          <div
+            className={`h-full relative z-10 flex flex-col justify-between  ${
+              testimonialActive === 5 ? "" : "hidden"
+            }`}
+          >
+            <p>
+            Megan was a pleasure to work with throughout my college application process. 
+              I came in with a rather stale writing style: straightforward, unamusing, and 
+              "writing like a 30-year-old." But with Megan's guidance through weekly meetings 
+              and exemplar pieces, I came to develop a more personable and vibrant writing 
+              style that captured my authentic voice. Not to mention, the weekly 1-on-1's were 
+              super helpful for brainstorming essay ideas and making revisions, and Megan's 
+              relatable personality made this stressful process feel more enjoyable. Overall, 
+              Megan's expertise enabled me to showcase my best self and ultimately earn admission 
+              to one of my top-choice schools!
+            </p>
+            <div className="text-center my-8" x-show="testimonialActive == 1">
+              <h2 className="text-sm xl:text-base font-bold text-rose-600 leading-tight">
+              William Zheng
+              </h2>
+              <small className="text-rose-400 text-xs xl:text-sm truncate">
+               UC Berkeley 25, Economics & Pre-Business
+              </small>
+            </div>
+          </div>
+
+            {/* Testimonial 6 */}
+          <div
+            className={`h-full relative z-10 flex flex-col justify-between  ${
+              testimonialActive === 6 ? "" : "hidden"
+            }`}
+          >
+            <p>
+           As a first generation student who lacked help with the college application process,
+              Megan provided me with clear directions from the start. She pushed me to see past
+              my simplistic thoughts for essays, guiding me through my tangled thought-process and
+              helping me create a well-written essay. Her mindset was not just to help with essays,
+              but rather to build advanced writers, allowing me to carry the skills I’ve learned into
+              the rest of my life. Throughout the stressful process, Megan proved to be not only a successful
+              college counselor but also a life counselor. As a result of her work, I have finally established
+              guiding values that I follow in my life and more thoroughly understand who I am. Megan is a
+              relatable and genuine person, but also is not scared to push students to continuously strive for their best. 
+
+            </p>
+            <div className="text-center my-8" x-show="testimonialActive == 1">
+              <h2 className="text-sm xl:text-base font-bold text-rose-600 leading-tight">
+              Monisha Sridar
+              </h2>
+              <small className="text-rose-400 text-xs xl:text-sm truncate">
+               DVHS 2025
+              </small>
+            </div>
+          </div>
+
+            {/* Testimonial 7 */}
+          <div
+            className={`h-full relative z-10 flex flex-col justify-between  ${
+              testimonialActive === 7 ? "" : "hidden"
+            }`}
+          >
+            <p>
+          After hearing horror stories about counselors who clearly did not enjoy working with their students,
+          we were so relieved to hear about Megan. Our daughter came away from her first meeting feeling
+          like she could talk to Megan like a friend, while at the same time being pushed to think more deeply
+          and write more beautifully. Megan was communicative and was flexible with our family's needs
+          We are so lucky to have worked with Megan.
+            </p>
+            <div className="text-center my-8" x-show="testimonialActive == 1">
+              <h2 className="text-sm xl:text-base font-bold text-rose-600 leading-tight">
+              Malhotra Family
+              </h2>
             </div>
           </div>
 

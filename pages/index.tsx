@@ -535,9 +535,9 @@ const TestimonialComponent = () => {
             <p>
             Megan was a pleasure to work with throughout my college application process. 
               I came in with a rather stale writing style: straightforward, unamusing, and 
-              "writing like a 30-year-old." But with Megan's guidance through weekly meetings 
+              writing like a 30-year-old. But with Megan's guidance through weekly meetings 
               and exemplar pieces, I came to develop a more personable and vibrant writing 
-              style that captured my authentic voice. Not to mention, the weekly 1-on-1's were 
+              style that captured my authentic voice. Not to mention, the weekly 1-on-1s were 
               super helpful for brainstorming essay ideas and making revisions, and Megan's 
               relatable personality made this stressful process feel more enjoyable. Overall, 
               Megan's expertise enabled me to showcase my best self and ultimately earn admission 

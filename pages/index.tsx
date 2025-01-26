@@ -380,13 +380,13 @@ const TestimonialComponent = () => {
     >
       <div className="py-10 xl:py-24 container mx-auto flex flex-col xl:flex-row shadow-sm overflow-hidden ">
         <div className="relative w-full py-2 xl:py-24 bg-rose-600 xl:w-1/2 flex flex-col item-center justify-center xl:min-h-[640px]">
-          <div className="absolute top-0 left-0 z-10 grid-indigo w-16 h-16 xl:w-40 xl:h-40 xl:ml-20 xl:mt-24 hidden sm:block"></div>
+          <div className="absolute top-0 left-0 z-10 grid-indigo w-16 h-16 xl:w-40 xl:h-40 xl:ml-20 xl:mt-24 flex"></div>
           <div className="relative text-2xl xl:text-5xl py-2 px-6 xl:py-6 xl:px-1 xl:w-64 xl:mx-auto text-white font-semibold leading-tight tracking-tight mb-0 z-20">
             <span className="xl:block sm:ml-12 xl:ml-0">
               What My Customers Are Saying!
             </span>
           </div>
-          <div className="absolute right-0 bottom-0 mr-4 xl:mb-4 mb-3 z-30 hidden sm:block">
+          <div className="absolute right-0 bottom-0 mr-4 xl:mb-4 mb-3 z-30 flex">
             <button
               className="rounded-l-full border-r bg-gray-100 text-blue-950 focus:outline-none hover:text-rose-500 font-bold w-12 h-10"
               onClick={handlePrevClick}

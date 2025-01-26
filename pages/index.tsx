@@ -194,25 +194,24 @@ function WhyImDifferent() {
             <div>
               <p>
 
-                An exceptional SAT score or perfect GPA is not enough to create a personal connection with an admissions officer
+                In a sea of students with similar stats and scores, an exceptional SAT score or perfect GPA is not enough to create a personal connection with an admissions officer
                 - but a piece of authentic personal writing just might. Unlike standardized test scores or academic achievements, a genuine
-                essay offers a glimpse into the applicant&apos;s unique
-                personality and life experiences.
+                essay offers a glimpse into the applicant&apos;s unique, personality, life experiences, and intellectual readiness for college.
               
               </p>
               <p className="mt-8">
 
                 For most prep companies, profit is the bottom line. They run with the first
                 idea a student comes up with, provide superficial edits for organization or word-choice, and then rinse and
-                repeat. This is great for churning out a high volume of essays quickly, but fails to prompt
-                the type of reflection that will spark something in a reader. 
+                repeat. This is great for churning out a high volume of adequate essays quickly, but it fails to prompt
+                the type of reflection that will spark something real in a reader. 
                 
               </p>
             </div>
             <div>
               <p>
 
-                My expereiences with these companies have shaped my counseling philosophy.I believe in taking a
+                My expereiences with these companies have shaped my counseling philosophy. I believe in taking a
                 slower, more thoughtful approach, one that focuses on building a
                 real connection with each student. This approach goes beyond
                 just writing an essay; it involves understanding the
@@ -220,9 +219,9 @@ function WhyImDifferent() {
                 authentically.
               </p>
               <p className="mt-8">
-                The goal is not merely to craft a compelling narrative, but to
-                delve deep into the student&apos;s experiences, thoughts, and
-                aspirations. By doing so, we create essays that are not only
+                Together, we will
+                delve deep into your student&apos;s experiences, thoughts, and
+                aspirations. By doing so, we will craft essays that are not only
                 well-written but also resonate with the readers on a personal
                 level, making the application stand out in the competitive
                 admissions process.
@@ -265,7 +264,7 @@ function TheProcess() {
       id: 5,
       question: "january",
       answer:
-        "After applications are submitted, some students may be asked to submit additional essays, a Letter of Continued interest in the case they are waitlisted, or asked to participate in an interview. I am available by appointment to provide support.",
+        "After applications are submitted, some students may be asked to submit additional essays, a Letter of Continued interest in the case they are waitlisted, or be asked to participate in an interview. I am available by appointment to provide support.",
     },
   ];
 

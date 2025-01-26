@@ -581,25 +581,6 @@ const TestimonialComponent = () => {
             </div>
           </div>
 
-            {/* Testimonial 7 */}
-          <div
-            className={`h-full relative z-10 flex flex-col justify-between  ${
-              testimonialActive === 7 ? "" : "hidden"
-            }`}
-          >
-            <p>
-          After hearing horror stories about counselors who clearly did not enjoy working with their students,
-          we were so relieved to hear about Megan. Our daughter came away from her first meeting feeling
-          like she could talk to Megan like a friend, while at the same time being pushed to think more deeply
-          and write more beautifully. Megan was communicative and was flexible with our family's needs
-          We are so lucky to have worked with Megan.
-            </p>
-            <div className="text-center my-8" x-show="testimonialActive == 1">
-              <h2 className="text-sm xl:text-base font-bold text-rose-600 leading-tight">
-              Malhotra Family
-              </h2>
-            </div>
-          </div>
 
           {/* Other elements like buttons, names, etc. */}
         </div>

@@ -194,9 +194,12 @@ function WhyImDifferent() {
             <div>
               <p>
 
-                In a sea of students with similar stats and scores, an exceptional SAT score or perfect GPA is not enough to create a personal connection with an admissions officer
-                - but a piece of authentic personal writing just might. Unlike standardized test scores or academic achievements, a genuine
+                In a sea of students with similar stats and scores, an exceptional SAT score or perfect GPA is not enough to make a
+                student stand out, so what will? Unlike standardized test scores or academic achievements, a genuine
                 essay offers a glimpse into the applicant&apos;s unique personality, life experiences, and intellectual vitality.
+                Beyond just being good at taking tests and following directions, who are they?
+                It's this type of authenticity is what will allow an admissions officer to connect to a story, 
+                and advocate for a student's acceptance.
               
               </p>
               <p className="mt-8">
@@ -204,7 +207,7 @@ function WhyImDifferent() {
                 For most prep companies, profit is the bottom line. They run with the first
                 idea a student comes up with, provide superficial edits for organization or word-choice, and then rinse and
                 repeat. This is great for churning out a high volume of adequate essays quickly, but it fails to prompt
-                the type of reflection and unique execution that will spark something real in a reader. 
+                the type of reflection and creative execution that will spark something real in a reader. 
                 
               </p>
             </div>
@@ -216,7 +219,7 @@ function WhyImDifferent() {
                 real connection with each student. This approach goes beyond
                 just writing an essay; it involves understanding the
                 student&apos;s unique story and helping them express it
-                authentically. And with students accepted to Harvard Masters Programs, Oxford, Johns Hopkins, and Stanford, the results
+                authentically. And with students accepted to Oxford, Johns Hopkins, and Stanford, the results
                 speak for themselves.
               </p>
               <p className="mt-8">

@@ -216,7 +216,8 @@ function WhyImDifferent() {
                 real connection with each student. This approach goes beyond
                 just writing an essay; it involves understanding the
                 student&apos;s unique story and helping them express it
-                authentically.
+                authentically. And with students accepted to Harvard Masters Programs, Oxford, Johns Hopkins, and Stanford, the results
+                speak for themselves.
               </p>
               <p className="mt-8">
                 Together, we will

@@ -198,7 +198,7 @@ function WhyImDifferent() {
                 student stand out, so what will? Unlike standardized test scores or academic achievements, a genuine
                 essay offers a glimpse into the applicant&apos;s unique personality, life experiences, and intellectual vitality.
                 It&apos;s this type of authenticity is what will allow an admissions officer to connect to a story, 
-                and advocate for a student's acceptance.
+                and advocate for a student&apos;s acceptance.
               
               </p>
               <p className="mt-8">

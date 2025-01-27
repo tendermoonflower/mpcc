@@ -197,8 +197,7 @@ function WhyImDifferent() {
                 In a sea of students with similar stats and scores, an exceptional SAT score or perfect GPA is not enough to make a
                 student stand out, so what will? Unlike standardized test scores or academic achievements, a genuine
                 essay offers a glimpse into the applicant&apos;s unique personality, life experiences, and intellectual vitality.
-                Beyond just being good at taking tests and following directions, who are they?
-                It's this type of authenticity is what will allow an admissions officer to connect to a story, 
+                It&apos;s this type of authenticity is what will allow an admissions officer to connect to a story, 
                 and advocate for a student's acceptance.
               
               </p>

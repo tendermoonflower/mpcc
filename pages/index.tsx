@@ -196,7 +196,7 @@ function WhyImDifferent() {
 
                 In a sea of students with similar stats and scores, an exceptional SAT score or perfect GPA is not enough to create a personal connection with an admissions officer
                 - but a piece of authentic personal writing just might. Unlike standardized test scores or academic achievements, a genuine
-                essay offers a glimpse into the applicant&apos;s unique, personality, life experiences, and intellectual readiness for college.
+                essay offers a glimpse into the applicant&apos;s unique personality, life experiences, and intellectual vitality.
               
               </p>
               <p className="mt-8">
@@ -204,14 +204,14 @@ function WhyImDifferent() {
                 For most prep companies, profit is the bottom line. They run with the first
                 idea a student comes up with, provide superficial edits for organization or word-choice, and then rinse and
                 repeat. This is great for churning out a high volume of adequate essays quickly, but it fails to prompt
-                the type of reflection that will spark something real in a reader. 
+                the type of reflection and unique execution that will spark something real in a reader. 
                 
               </p>
             </div>
             <div>
               <p>
 
-                My expereiences with these companies have shaped my counseling philosophy. I believe in taking a
+                My experiences with these companies have shaped my counseling philosophy. I believe in taking a
                 slower, more thoughtful approach, one that focuses on building a
                 real connection with each student. This approach goes beyond
                 just writing an essay; it involves understanding the

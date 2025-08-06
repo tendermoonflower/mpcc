@@ -311,15 +311,15 @@ function Services() {
     {
       name: "university package",
       description:
-        "For students who plan to apply to 2 or fewer schools that are considered Ivy League, as well as those applying to Stanford and/or Case Western.",
-      price: "$9,000",
+        "Full-service application advising and essay editing for high school seniors planning to apply to college. ",
+      price: "$10,000",
       icon: UsersIcon,
     },
     {
-      name: "university+ package",
+      name: "graduate school advising",
       description:
-        "For students who plan to apply to 3 or more schools that are considered Ivy League, including Stanford and/or Case Western.",
-      price: "$10,000",
+        "High level personal statement advising for students planning to apply to gradute school and medical school ",
+      price: "case by case",
       icon: TrashIcon,
     },
   ];

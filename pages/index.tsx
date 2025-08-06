@@ -318,7 +318,7 @@ function Services() {
     {
       name: "graduate school advising",
       description:
-        "High level personal statement advising for students planning to apply to gradute school and medical school ",
+        "High level personal statement advising for students planning to apply to gradute school and medical school. ",
       price: "case by case",
       icon: RocketLaunchIcon,
     },

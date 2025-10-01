@@ -305,7 +305,7 @@ function Services() {
       name: "early high school advising",
       description:
         "By-appointment guidance on class selection, extra curricular time management, and summer program applications.",
-      price: "$5000/year",
+      price: "$5000 per year",
       icon: HandRaisedIcon,
     },
     {

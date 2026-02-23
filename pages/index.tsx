@@ -592,7 +592,7 @@ const TestimonialComponent = () => {
               Monisha S
               </h2>
               <small className="text-rose-400 text-xs xl:text-sm truncate">
-               DVHS 2025
+               Tulane University 30, Neuroscience
               </small>
             </div>
           </div>

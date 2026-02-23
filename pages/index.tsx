@@ -305,18 +305,28 @@ function Services() {
       name: "early high school advising",
       description:
         "By-appointment guidance on class selection, extra curricular time management, and summer program applications.",
+      price: ,
+      icon: HandRaisedIcon,
+    },
+    {
+      name: "critical reading and writing",
+      description:
+        "Customized 1-on-1 and small group classes developing the critical reflection and personal writing skills that make college essays stand out",
+      price: ,
       icon: HandRaisedIcon,
     },
     {
       name: "university package",
       description:
         "Full-service application advising and essay editing for high school seniors planning to apply to college. ",
+      price: ,
       icon: AcademicCapIcon,
     },
     {
       name: "graduate school advising",
       description:
         "High level personal statement advising for students planning to apply to gradute school and medical school. ",
+      price: ,
       icon: RocketLaunchIcon,
     },
   ];

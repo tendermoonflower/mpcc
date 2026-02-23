@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Dialog } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
-import { AcademicCapIcon, HandRaisedIcon, RocketLaunchIcon } from "@heroicons/react/24/outline";
+import { AcademicCapIcon, HandRaisedIcon, RocketLaunchIcon, BookOpenIcon } from "@heroicons/react/24/outline";
 
 import Image from "next/image";
 
@@ -313,7 +313,7 @@ function Services() {
       description:
         "Customized 1-on-1 and small group classes developing the critical reflection and personal writing skills that make college essays stand out",
       price: ,
-      icon: HandRaisedIcon,
+      icon: BookOpenIcon,
     },
     {
       name: "university package",

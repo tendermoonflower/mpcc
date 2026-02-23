@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Dialog } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
-import { AcademicCapIcon, HandRaisedIcon, RocketLaunchIcon, BookOpenIcon } from "@heroicons/react/24/outline";
+import { AcademicCapIcon, HandRaisedIcon, RocketLaunchIcon, BookOpenIcon, SunIcon } from "@heroicons/react/24/outline";
 
 import Image from "next/image";
 
@@ -304,30 +304,37 @@ function Services() {
     {
       name: "early high school advising",
       description:
-        "By-appointment guidance on class selection, extra curricular time management, and summer program applications.",
-      price: "call me",
+        "By-appointment guidance on class selection, extra curricular time management, summer program applications, and personal research mentorship",
+      price: "",
       icon: HandRaisedIcon,
     },
     {
       name: "critical reading and writing",
       description:
-        "Customized 1-on-1 and small group classes developing the critical reflection and personal writing skills that make college essays stand out",
-      price: "call me" ,
+        "Customized 1-on-1 and small group classes developing the prolonged attention, critical reflection, and personal writing skills that make college essays stand out",
+      price: "" ,
       icon: BookOpenIcon,
     },
     {
       name: "university package",
       description:
-        "Full-service application advising and essay editing for high school seniors planning to apply to college. ",
-      price: "call me",
+        "Full-service personalized application advising and essay editing for high school seniors planning to apply to college. ",
+      price: "",
       icon: AcademicCapIcon,
     },
     {
       name: "graduate school advising",
       description:
         "High level personal statement advising for students planning to apply to gradute school and medical school. ",
-      price: "call me",
+      price: "",
       icon: RocketLaunchIcon,
+    },
+    {
+      name: "not seeing what you're looking for?",
+      description:
+        "Every student’s path is different. Contact me to discuss how I can provide thoughtful, personalized support tailored to your student.",
+      price: "",
+      icon: SunIcon,
     },
   ];
   return (

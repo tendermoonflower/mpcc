@@ -305,21 +305,18 @@ function Services() {
       name: "early high school advising",
       description:
         "By-appointment guidance on class selection, extra curricular time management, and summer program applications.",
-      price: "$5000 per year",
       icon: HandRaisedIcon,
     },
     {
       name: "university package",
       description:
         "Full-service application advising and essay editing for high school seniors planning to apply to college. ",
-      price: "$10,000",
       icon: AcademicCapIcon,
     },
     {
       name: "graduate school advising",
       description:
         "High level personal statement advising for students planning to apply to gradute school and medical school. ",
-      price: "case by case",
       icon: RocketLaunchIcon,
     },
   ];

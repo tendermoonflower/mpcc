@@ -714,26 +714,6 @@ const TestimonialComponent = () => {
             </div>
           </div>
 
-           {/* Testimonial 11 */}
-          <div
-            className={`h-full relative z-10 flex flex-col justify-between  ${
-              testimonialActive === 11 ? "" : "hidden"
-            }`}
-          >
-            <p>
-        Megan got my daughter off TikTok and into Berkeley.
-
-
-            </p>
-            <div className="text-center my-8" x-show="testimonialActive == 1">
-              <h2 className="text-sm xl:text-base font-bold text-rose-600 leading-tight">
-              Ivy F
-              </h2>
-              <small className="text-rose-400 text-xs xl:text-sm truncate">
-              parent
-              </small>
-            </div>
-          </div>
 
 
           {/* Other elements like buttons, names, etc. */}

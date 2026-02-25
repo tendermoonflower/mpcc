@@ -716,7 +716,7 @@ const TestimonialComponent = () => {
  {/* Testimonial 11 */}
           <div
             className={`h-full relative z-10 flex flex-col justify-between  ${
-              testimonialActive === 10 ? "" : "hidden"
+              testimonialActive === 11 ? "" : "hidden"
             }`}
           >
             <p>

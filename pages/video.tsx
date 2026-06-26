@@ -35,10 +35,7 @@ export default function VideoPage() {
             <p className="text-lg leading-8 text-blue-950/90">
               Don't be afraid to be yourself.
               have a good time.
-              1. one
-              2. two
-              3. three
-              
+          
             </p>
           </section>
 

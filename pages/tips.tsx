@@ -53,23 +53,6 @@ export default function VideoPage() {
               allowFullScreen
             />
           </div>
-
-           <p className="mb-4 text-gray-700 leading-relaxed">
-            As many students begin thinking about their college applications, I want to talk about the value of intentional brainstorming. The way we approach our brainstorming can result in personal statements that hit all the right “beats” but still somehow fall flat, and personal statements that immediately make contact with an admissions reader. What separates the two is how we understand and practice brainstorming.
-          </p>
-
-           <p className="mb-4 text-gray-700">
-            Most students become paralyzed at the brainstorming stage because they feel pressured by what’s at stake. They only have a couple of essays to convey who they are, and whether or not those essays are “good” will determine the rest of their life!!! (or at least the next four years). And this makes sense. It’s easy to feel overwhelmed by the expectation that we show up as the most unique, impressive, or traumatized person in the room, and so we grasp for recognizable topics, scripts, or lessons. The result is personal statements that feel tired and overdone. Counterintuitively, the fastest way to find a compelling essay topic is often to stop looking for one. When students use brainstorming as a practice of exploring their experiences, interests, and values without worrying about admissions or appearing impressive, the more poignant essay topics tend to reveal themselves naturally.
-          </p>
-
-            <p className="mb-4 text-gray-700">
-           With all of the students that I independently counsel, I begin with the same practice: a series of 10 minute written reflections on prompts ranging from “who are you? what are you? why are you?” to “write about your favorite tree” or “your most memorable mashed potatoes.” At this stage, we’re not even looking at the Common App or UC prompts, because the goal is not to come up with a topic for an essay, the goal is simply to explore who you are, what matters to you, and what captures your attention.
-          </p>
-
-         <p className="mb-4 text-gray-700">
-           With all of the students that I independently counsel, I begin with the same practice: a series of 10 minute written reflections on prompts ranging from “who are you? what are you? why are you?” to “write about your favorite tree” or “your most memorable mashed potatoes.” At this stage, we’re not even looking at the Common App or UC prompts, because the goal is not to come up with a topic for an essay, the goal is simply to explore who you are, what matters to you, and what captures your attention.
-          </p>
-          
         </section>
         
         

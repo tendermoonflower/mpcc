@@ -8,61 +8,63 @@ export default function VideoPage() {
       </Head>
 
       <div className="mx-auto max-w-4xl">
-        <h1 className="text-4xl font-bold text-blue-950 mb-8">
-         tips for students
+        {/* PAGE TITLE */}
+        <h1 className="text-4xl font-bold text-blue-950 mb-10">
+          tips for students
         </h1>
 
         {/* VIDEO */}
-        <div className="aspect-video w-full mb-10">
-  <iframe
-    className="w-full h-full rounded-xl"
-    src={`https://drive.google.com/file/d/1G_TxBAZadSxMNNGkjo-XT_4IYHJx9w2F/view?usp=sharing`}
-    allow="autoplay"
-    allowFullScreen
-  />
-</div>
-     {/* TEXT SECTION */}
-<article
-  className="
-    mx-auto max-w-3xl
-    space-y-12
-    text-blue-950
-  "
->
-  {/* SECTION 1 */}
-  <section className="space-y-4">
-    <h2 className="text-2xl font-bold tracking-tight text-blue-950 sm:text-3xl">
-      Opening Notes
-    </h2>
+        <div className="aspect-video w-full mb-12">
+          <iframe
+            className="w-full h-full rounded-xl"
+            src="https://drive.google.com/file/d/1G_TxBAZadSxMNNGkjo-XT_4IYHJx9w2F/preview"
+            allow="autoplay; encrypted-media"
+            allowFullScreen
+          />
+        </div>
 
-    <p className="text-lg leading-8 text-blue-950/90">
-      This is where your written companion text goes. You can reflect,
-      expand, annotate the video, or treat it like a Substack-style essay.
-    </p>
-  </section>
+        {/* TEXT SECTION */}
+        <article className="mx-auto max-w-3xl space-y-14 text-blue-950">
 
-  {/* SECTION 2 */}
-  <section className="space-y-4">
-    <h2 className="text-2xl font-bold tracking-tight text-blue-950 sm:text-3xl">
-      Key Insight
-    </h2>
+          {/* SECTION 1 */}
+          <section className="space-y-4">
+            <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-blue-950">
+              Opening Reflection
+            </h2>
 
-    <p className="text-lg leading-8 text-blue-950/90">
-      You can break this into multiple sections, add headers, or even
-      embed quotes from yourself or students. Each section now behaves like
-      a clean editorial block.
-    </p>
-  </section>
+            <p className="text-lg leading-8 text-blue-950/90">
+              This is your body text area. Use it to reflect on the video,
+              expand ideas, or write in a Substack-style essay voice. It matches
+              the typography system used across your homepage so everything feels unified.
+            </p>
+          </section>
 
-  {/* SECTION 3 (optional quote style) */}
-  <section className="space-y-4">
-    <h2 className="text-2xl font-bold tracking-tight text-blue-950 sm:text-3xl">
-      A Reflection
-    </h2>
+          {/* SECTION 2 */}
+          <section className="space-y-4">
+            <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-blue-950">
+              Key Insight
+            </h2>
 
-    <blockquote className="border-l-4 border-rose-600 pl-6 text-blue-950/80 italic leading-8">
-      “You don’t write essays to sound impressive. You write them to sound
-      true enough that someone else recognizes you.”
-    </blockquote>
-  </section>
-</article>
+            <p className="text-lg leading-8 text-blue-950/90">
+              Each section is a contained idea. Instead of one long scroll of text,
+              you now have structured thinking blocks that feel intentional and readable.
+            </p>
+          </section>
+
+          {/* SECTION 3 */}
+          <section className="space-y-4">
+            <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-blue-950">
+              Student Reflection
+            </h2>
+
+            <blockquote className="border-l-4 border-rose-600 pl-6 text-blue-950/80 italic leading-8">
+              Writing becomes clearer when it stops trying to sound impressive
+              and starts trying to sound honest.
+            </blockquote>
+          </section>
+
+        </article>
+      </div>
+    </main>
+  );
+}

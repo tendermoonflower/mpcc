@@ -92,12 +92,12 @@ export default function VideoPage() {
           </p>
 
           <p className="mb-3 font-semibold text-blue-950">
-            Rules for writing practice:
+            Rules for brainstorming from the side:
           </p>
 
           <ol className="list-decimal pl-6 space-y-4 text-gray-800 leading-relaxed">
             <li>
-              Write by hand. There are a lot of reasons why it is more effective to do this type of writing by hand, and I am happy to explain next time we meet. For now, just trust that there is something secret and special that arises when we write by hand instead of typing on a computer.
+              Write by hand. There are a lot of reasons why it is more effective to do this type of writing by hand, and I am happy to explain when we meet. For now, just trust that there is something secret and special that arises when we write by hand instead of typing on a computer.
             </li>
 
             <li>

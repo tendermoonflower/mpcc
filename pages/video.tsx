@@ -23,81 +23,78 @@ export default function VideoPage() {
           />
         </div>
 
-      {/* TEXT SECTION */}
-<article className="mx-auto max-w-3xl space-y-16 text-blue-950">
+        {/* SECTION 1 */}
+        <section className="mt-16">
+          <h2 className="text-2xl font-semibold mb-4">
+            prompts to start brainstorming from the side
+          </h2>
 
-  {/* SECTION 1 */}
-  <section className="space-y-6">
-    <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-blue-950">
-      prompts to start brainstorming from the side
-    </h2>
+          <p className="mb-4">
+            On my first day of 9th grade my English teacher gave me these three writing prompts and I&apos;m not kidding you when I say I return to them at least once a year, sometimes once a month. they are:
+          </p>
 
-    <div className="text-lg leading-8 text-blue-950/90 space-y-4">
-      <p>
-        On my first day of 9th grade my english teacher gave me these three writing prompts and I&apos;m not kidding you when I say I return to them at least once a year, sometimes once a month. they are:
-      </p>
+          <ul className="list-disc pl-6 mb-4 space-y-1">
+            <li>Who are you?</li>
+            <li>What are you?</li>
+            <li>Why are you?</li>
+          </ul>
 
-      <p>Who are you?</p>
-      <p>What are you?</p>
-      <p>Why are you?</p>
+          <p className="mb-4">He gave us 10 minutes to write on each.</p>
 
-      <p>
-        He gave us 10 minutes to write on each.
-      </p>
+          <p className="mb-2">
+            Some other prompts that have been really rich for me are:
+          </p>
 
-      <p>Some other prompts that have been really rich for me are:</p>
+          <ul className="list-disc pl-6 space-y-1">
+            <li>What am I thinking of?</li>
+            <li>What am I not thinking of?</li>
+            <li>I feel invisible when/because...</li>
+            <li>Something my friends don&apos;t even know about me is...</li>
+            <li>
+              Write about a first time, the first time you saw someone, the first time you did something...
+            </li>
+          </ul>
+        </section>
 
-      <p>What am I thinking of?</p>
-      <p>What am I not thinking of?</p>
-      <p>I feel invisible when/because...</p>
-      <p>Something my friends don&apos;t even know about me is...</p>
-      <p>Write about a first time, the first time you saw someone, the first time you did something...</p>
-    </div>
-  </section>
+        {/* SECTION 2 */}
+        <section className="mt-16">
+          <h2 className="text-2xl font-semibold mb-4">
+            rules for brainstorming from the side
+          </h2>
 
-  {/* SECTION 2 */}
-  <section className="space-y-6">
-    <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-blue-950">
-      rules for brainstorming from the side
-    </h2>
+          <p className="mb-4">
+            The purpose of brainstorming from the side: writing is, above all, a practice in reflection. the purpose of brainstorming from the side is to follow the breadcrumbs of your thoughts back to your true self. in allowing your thoughts to arise spontaneously, and without censoring them, you will learn things about yourself that you never knew, or things you thought you forgot. the purpose of brainstorming from the side is not even to produce a common app essay. we&apos;re not even there yet. we&apos;re still trying to figure out who we are, and why we are that way. so don&apos;t feel like there is any end-goal. the only goal of brainstorming from the side is to follow our thoughts wherever they lead. &quot;having no destination, i am never lost.&quot;
+          </p>
 
-    <div className="text-lg leading-8 text-blue-950/90 space-y-6">
+          <p className="mb-2">Rules for writing practice:</p>
 
-      <p>
-        The purpose of brainstorming from the side: writing is, above all, a practice in reflection. The purpose of brainstorming from the side is to follow the breadcrumbs of your thoughts back to your true self. In allowing your thoughts to arise spontaneously, and without censoring them, you will learn things about yourself that you never knew, or things you thought you forgot. The purpose of brainstorming from the side is not even to produce a Common App essay. We&apos;re not even there yet. We&apos;re still trying to figure out who we are, and why we are that way. So don&apos;t feel like there is any end-goal. The only goal of brainstorming from the side is to follow our thoughts wherever they lead. &quot;having no destination, i am never lost.&quot;
-      </p>
+          <ol className="list-decimal pl-6 space-y-3">
+            <li>
+              write by hand. there are a lot of reasons why it is more effective to do this type of writing by hand, and i&apos;m happy to explain next time we meet. for now, just trust that there is something secret and special that arises when we write by hand instead of type on a computer.
+            </li>
 
-      <p>Rules for writing practice:</p>
+            <li>
+              commit to staying with each prompt for at least 10 minutes, even if you stray off path or write in circles. in fact, if you do stray off path, that&apos;s how you know you&apos;re doing it right. write for longer than 10 minutes if you&apos;re really feeling it.
+            </li>
 
-      <p>
-        1. write by hand. there are a lot of reasons why it is more effective to do this type of writing by hand, and i&apos;m happy to explain next time we meet. for now, just trust that there is something secret and special that arises when we write by hand instead of type on a computer.
-      </p>
+            <li>
+              don&apos;t stop moving your pencil. even if it means writing the same word over and over, or writing &quot;i dont know i dont know&quot; until you do know, keep writing. often as soon as we pick up our pencil, thoughts begin to fly by. they might as well be on the page.
+            </li>
 
-      <p>
-        2. commit to staying with each prompt for at least 10 minutes, even if you stray off path or write in circles. in fact, if you do stray off path, that&apos;s how you know you&apos;re doing it right. write for longer than 10 minutes if you&apos;re really feeling it.
-      </p>
+            <li>
+              no deleting, rereading, or revising (yet). when we&apos;re freewriting, we&apos;re allowing our mind to be free, to reveal itself to us. and when we delete or cross out or revise a word, it&apos;s telling our mind &quot;you&apos;re not good enough, i don&apos;t like you&quot; and then it hides from us, unwilling to reveal its secrets and wisdom.
+            </li>
 
-      <p>
-        3. don&apos;t stop moving your pencil. even if it means writing the same word over and over, or writing &quot;i dont know i dont know&quot; until you do know, keep writing. often as soon as we pick up our pencil, thoughts begin to fly by. they might as well be on the page.
-      </p>
+            <li>
+              no shaming yourself. no &quot;this sucks, this is basic,&quot; no &quot;i&apos;m not a good writer,&quot; no &quot;i&apos;m too boring to have anything to say,&quot; no &quot;this experience doesn&apos;t even matter.&quot; none of these statements are true. you&apos;re going to hear the voice in your head repeat these phrases to you. this is &quot;monkey mind.&quot; it&apos;s just the voice in your head that chatters on, mostly with criticism or &quot;i&apos;m bored, lets go eat.&quot; sometimes when you hear the voice it can be helpful to envision the voice as a person. what do they look like? why are they so critical? why are they trying to take you away from your work? are they worried you&apos;re going to stumble upon something important and how dare you feel important? and then, you can imagine telling them to keep it down while you keep on writing.
+            </li>
 
-      <p>
-        4. no deleting, rereading, or revising (yet). when we&apos;re freewriting, we&apos;re allowing our mind to be free, to reveal itself to us. and when we delete or cross out or revise a word, it&apos;s telling our mind &quot;you&apos;re not good enough, i don&apos;t like you&quot; and then it hides from us, unwilling to reveal its secrets and wisdom.
-      </p>
-
-      <p>
-        5. no shaming yourself. no &quot;this sucks, this is basic,&quot; no &quot;i&apos;m not a good writer,&quot; no &quot;i&apos;m too boring to have anything to say,&quot; no &quot;this experience doesn&apos;t even matter.&quot;
-      </p>
-
-      <p>
-        None of these statements are true. You&apos;re going to hear the voice in your head repeat these phrases to you. This is &quot;monkey mind.&quot; It&apos;s just the voice in your head that chatters on, mostly with criticism or &quot;i&apos;m bored, lets go eat.&quot; Sometimes when you hear the voice it can be helpful to envision the voice as a person. What do they look like? Why are they so critical? Why are they trying to take you away from your work? Are they worried you&apos;re going to stumble upon something important and how dare you feel important? And then, you can imagine telling them to keep it down while you keep on writing.
-      </p>
-
-      <p>
-        6. put the writing away and don&apos;t read it again until at least a week has gone by.
-      </p>
-
-    </div>
-  </section>
-
-</article>
+            <li>
+              put the writing away and don&apos;t read it again until at least a week has gone by.
+            </li>
+          </ol>
+        </section>
+      </div>
+    </main>
+  );
+}

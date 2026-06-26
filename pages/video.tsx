@@ -2,29 +2,49 @@ import Head from "next/head";
 
 export default function VideoPage() {
   return (
-    <main className="min-h-screen bg-amber-50 px-6 py-20 text-blue-950">
+    <main className="min-h-screen bg-amber-50 px-6 py-20 text-blue-950 scroll-smooth">
       <Head>
         <title>tips for students</title>
       </Head>
 
       <div className="mx-auto max-w-4xl">
         {/* PAGE TITLE */}
-        <h1 className="text-4xl font-bold text-rose-600 mb-10">
+        <h1 className="text-4xl font-bold text-rose-600 mb-6">
           tips for students
         </h1>
 
+        {/* NAV BAR */}
+        <nav className="sticky top-0 z-50 bg-amber-50/90 backdrop-blur border-b border-amber-200 py-4 mb-10">
+          <div className="flex flex-wrap gap-6 text-sm font-medium">
+            <a href="#video" className="text-gray-700 hover:text-rose-600">
+              video
+            </a>
+            <a
+              href="#prompts"
+              className="text-gray-700 hover:text-rose-600"
+            >
+              prompts
+            </a>
+            <a href="#rules" className="text-gray-700 hover:text-rose-600">
+              rules
+            </a>
+          </div>
+        </nav>
+
         {/* VIDEO */}
-        <div className="aspect-video w-full mb-16">
-          <iframe
-            className="w-full h-full rounded-2xl shadow-sm"
-            src="https://drive.google.com/file/d/1G_TxBAZadSxMNNGkjo-XT_4IYHJx9w2F/preview"
-            allow="autoplay; encrypted-media"
-            allowFullScreen
-          />
-        </div>
+        <section id="video" className="mb-16">
+          <div className="aspect-video w-full">
+            <iframe
+              className="w-full h-full rounded-2xl shadow-sm"
+              src="https://drive.google.com/file/d/1G_TxBAZadSxMNNGkjo-XT_4IYHJx9w2F/preview"
+              allow="autoplay; encrypted-media"
+              allowFullScreen
+            />
+          </div>
+        </section>
 
         {/* SECTION 1 */}
-        <section className="mb-16">
+        <section id="prompts" className="mb-16">
           <h2 className="text-2xl font-semibold mb-4 text-rose-600">
             prompts to start brainstorming from the side
           </h2>
@@ -52,12 +72,14 @@ export default function VideoPage() {
             <li>What am I not thinking of?</li>
             <li>I feel invisible when or because...</li>
             <li>Something my friends do not even know about me is...</li>
-            <li>Write about a first time, the first time you saw someone, the first time you did something...</li>
+            <li>
+              Write about a first time, the first time you saw someone, the first time you did something...
+            </li>
           </ul>
         </section>
 
         {/* SECTION 2 */}
-        <section className="mb-16">
+        <section id="rules" className="mb-16">
           <h2 className="text-2xl font-semibold mb-4 text-rose-600">
             rules for brainstorming from the side
           </h2>
@@ -76,19 +98,19 @@ export default function VideoPage() {
             </li>
 
             <li>
-              Commit to staying with each prompt for at least 10 minutes, even if you stray off path or write in circles. In fact, if you do stray off path, that is how you know you are doing it right. Write for longer than 10 minutes if you are really feeling it.
+              Commit to staying with each prompt for at least 10 minutes, even if you stray off path or write in circles. If you stray off path, that is often the point.
             </li>
 
             <li>
-              Do not stop moving your pencil. Even if it means writing the same word over and over, or writing “I do not know, I do not know” until you do know, keep writing. Often, as soon as we pick up our pencil, thoughts begin to fly by. They might as well be on the page.
+              Do not stop moving your pencil. Even if it means writing the same phrase over and over, keep going until thoughts begin to surface.
             </li>
 
             <li>
-              No deleting, rereading, or revising (yet). When we are freewriting, we are allowing our mind to be free and to reveal itself to us. When we delete, cross out, or revise a word, it signals to the mind that it is not good enough, and then it hides its secrets.
+              No deleting, rereading, or revising (yet). Freewriting only works if the mind is allowed to stay unedited.
             </li>
 
             <li>
-              No shaming yourself. No “this sucks,” no “I am not a good writer,” no “I am too boring,” no “this does not matter.” These statements are not true. This is “monkey mind,” the voice that chatters and criticizes or tries to pull you away. Sometimes it helps to imagine that voice as a person and gently tell it to sit down while you keep writing.
+              No shaming yourself. This is monkey mind: the voice that critiques, distracts, or minimizes. You can notice it, then continue writing anyway.
             </li>
 
             <li>

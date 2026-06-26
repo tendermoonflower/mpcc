@@ -53,6 +53,10 @@ export default function VideoPage() {
               allowFullScreen
             />
           </div>
+
+           <p className="mb-4 text-gray-700 leading-relaxed">
+            On my first day of 9th grade, my English teacher gave me these three writing prompts, and I am not kidding when I say I return to them at least once a year, sometimes once a month. they are:
+          </p>
         </section>
         
         

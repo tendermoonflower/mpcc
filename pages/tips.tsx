@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Link from "next/link";
 
 export default function VideoPage() {
   return (
@@ -13,23 +14,31 @@ export default function VideoPage() {
           tips for students
         </h1>
 
-        {/* NAV BAR */}
-        <nav className="sticky top-0 z-50 bg-amber-50/90 backdrop-blur border-b border-amber-200 py-4 mb-10">
-          <div className="flex flex-wrap gap-6 text-sm font-medium">
-            <a href="#video" className="text-gray-700 hover:text-rose-600">
-              video
-            </a>
-            <a
-              href="#prompts"
-              className="text-gray-700 hover:text-rose-600"
-            >
-              prompts
-            </a>
-            <a href="#rules" className="text-gray-700 hover:text-rose-600">
-              rules
-            </a>
-          </div>
-        </nav>
+       {/* NAV BAR */}
+<nav className="sticky top-0 z-50 bg-amber-50/90 backdrop-blur border-b border-amber-200 py-4 mb-10">
+  <div className="flex flex-wrap gap-6 text-sm font-medium">
+    
+    {/* HOME */}
+    <Link href="/" className="text-gray-700 hover:text-rose-600">
+      home
+    </Link>
+
+    {/* VIDEO */}
+    <a href="#video" className="text-gray-700 hover:text-rose-600">
+      video
+    </a>
+
+    {/* PROMPTS */}
+    <a href="#prompts" className="text-gray-700 hover:text-rose-600">
+      prompts
+    </a>
+
+    {/* RULES */}
+    <a href="#rules" className="text-gray-700 hover:text-rose-600">
+      rules
+    </a>
+  </div>
+</nav>
 
         {/* VIDEO */}
         <h2 className="text-2xl font-semibold mb-4 text-rose-600">

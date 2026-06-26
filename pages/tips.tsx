@@ -39,7 +39,7 @@ export default function VideoPage() {
           <div className="aspect-video w-full">
             <iframe
               className="w-full h-full rounded-2xl shadow-sm"
-              src="https://drive.google.com/file/d/1G_TxBAZadSxMNNGkjo-XT_4IYHJx9w2F/preview"
+              src="https://drive.google.com/file/d/1fuOAHYFHMEtetBoG51pOophAmvAAvXT-/preview"
               allow="autoplay; encrypted-media"
               allowFullScreen
             />

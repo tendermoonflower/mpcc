@@ -32,6 +32,9 @@ export default function VideoPage() {
         </nav>
 
         {/* VIDEO */}
+        <h2 className="text-2xl font-semibold mb-4 text-rose-600">
+            the importance of brainstorming from the side
+          </h2>
         <section id="video" className="mb-16">
           <div className="aspect-video w-full">
             <iframe

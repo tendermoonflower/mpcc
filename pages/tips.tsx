@@ -66,12 +66,8 @@ export default function VideoPage() {
            With all of the students that I independently counsel, I begin with the same practice: a series of 10 minute written reflections on prompts ranging from “who are you? what are you? why are you?” to “write about your favorite tree” or “your most memorable mashed potatoes.” At this stage, we’re not even looking at the Common App or UC prompts, because the goal is not to come up with a topic for an essay, the goal is simply to explore who you are, what matters to you, and what captures your attention.
           </p>
 
-           <p className="mb-4 text-gray-700">
-          Students who stay with the process gradually move beyond rehearsed answers and begin writing in a voice that sounds recognizably their own. They recall old memories that, while not “impressive” on the surface, laid the foundation for a lifelong love of ecology. Or they finally let themselves admit that maybe they really do prefer art history to economics, and suddenly their “writers block” gives way to a writer’s barrage. Consider, for example, one student, whose first brainstorms followed the usual script of hating, then learning to love being Indian in a white community. It's a familiar essay, and admissions officers read versions of it every year. As we continued to reflect on her experiences, she recalled that her family’s “genetic” anger could be traced to a relationship to Durga Ma, the goddess of creation through destruction, and she was inspired to write about how Durga Ma’s story helped her reimagine and utilize her anger in constructive, rather than destructive ways. That is a much more compelling take on what it means to be Indian in America, and it came from this low-stakes, meandering process of just writing what comes up. 
-          </p>
-
-            <p className="mb-4 text-gray-700">
-            So if there’s one piece of advice that I have as you begin your brainstorms, it’s not to brainstorm for an essay topic. Brainstorm first to understand yourself, and then everything else becomes easy.
+         <p className="mb-4 text-gray-700">
+           With all of the students that I independently counsel, I begin with the same practice: a series of 10 minute written reflections on prompts ranging from “who are you? what are you? why are you?” to “write about your favorite tree” or “your most memorable mashed potatoes.” At this stage, we’re not even looking at the Common App or UC prompts, because the goal is not to come up with a topic for an essay, the goal is simply to explore who you are, what matters to you, and what captures your attention.
           </p>
           
         </section>

@@ -24,20 +24,21 @@ export default function VideoPage() {
         </div>
 
         {/* TEXT SECTION */}
-        <article className="mx-auto max-w-3xl space-y-14 text-blue-950">
+<article className="mx-auto max-w-3xl space-y-14 text-blue-950">
 
-          {/* SECTION 1 */}
-          <section className="space-y-4">
-            <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-blue-950">
-              Opening Reflection
-            </h2>
+  {/* SECTION 1 */}
+  <section className="space-y-4">
+    <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-blue-950">
+      prompts to start "brainstorming from the side"
+    </h2>
 
-            <p className="text-lg leading-8 text-blue-950/90">
-              This is your body text area. Use it to reflect on the video,
-              expand ideas, or write in a Substack-style essay voice. It matches
-              the typography system used across your homepage so everything feels unified.
-            </p>
-          </section>
+    <div className="text-lg leading-8 text-blue-950/90 space-y-2">
+      <p>1. one</p>
+      <p>2. two</p>
+      <p>3. three</p>
+    </div>
+  </section>
+
 
           {/* SECTION 2 */}
           <section className="space-y-4">

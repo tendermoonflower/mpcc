@@ -55,43 +55,15 @@ export default function VideoPage() {
           </div>
 
            <p className="mb-4 text-gray-700 leading-relaxed">
-      As many students begin thinking about their college applications, I want to talk about the value of intentional brainstorming.
-      The way we approach our brainstorming can result in personal statements that hit all the right beats but still somehow fall flat,
-      and personal statements that immediately make contact with an admissions reader. What separates the two is how we understand and practice brainstorming.
-    </p>
+            On my first day of 9th grade, my English teacher gave me these three writing prompts, and I am not kidding when I say I return to them at least once a year, sometimes once a month. they are:
+          </p>
 
-  <p className="mb-4 text-gray-700 leading-relaxed">
-      Most students become paralyzed at the brainstorming stage because they feel pressured by what’s at stake. They only have a couple of essays to
-      convey who they are, and whether or not those essays are “good” will determine the rest of their life!!! (or at least the next four years).
-      And this makes sense. It’s easy to feel overwhelmed by the expectation that we show up as the most unique, impressive, or traumatized person
-      in the room, and so we grasp for recognizable topics, scripts, or lessons. The result is personal statements that feel tired and overdone.
-      Counterintuitively, the fastest way to find a compelling essay topic is often to stop looking for one. When students use brainstorming as a
-      practice of exploring their experiences, interests, and values without worrying about admissions or appearing impressive, the more poignant
-      essay topics tend to reveal themselves naturally.
-    </p>
+           <p className="mb-4 text-gray-700">
+            He gave us 10 minutes to write on each.
+          </p>
 
-     <p className="mb-4 text-gray-700 leading-relaxed">
-      With all of the students that I independently counsel, I begin with the same practice: a series of 10 minute written reflections on prompts
-      ranging from “who are you? what are you? why are you?” to “write about your favorite tree” or “your most memorable mashed potatoes.”
-      At this stage, we’re not even looking at the Common App or UC prompts, because the goal is not to come up with a topic for an essay, the goal is simply to explore who you are,
-      what matters to you, and what captures your attention.
-    </p>
-
-    <p className="mb-4 text-gray-700 leading-relaxed">
-      Students who stay with the process gradually move beyond rehearsed answers and begin writing in a voice that sounds recognizably their own.
-      They recall old memories that, while not “impressive” on the surface, laid the foundation for a lifelong love of ecology. Or they finally let
-      themselves admit that maybe they really do prefer art history to economics, and suddenly their “writers block” gives way to a writer’s barrage.
-      Consider, for example, one student, whose first brainstorms followed the usual script of hating, then learning to love being Indian in a white community.
-      It's a familiar essay, and admissions officers read versions of it every year. As we continued to reflect on her experiences, she recalled that her family’s
-      “genetic” anger could be traced to a relationship to Durga Ma, the goddess of creation through destruction, and she was inspired to write about how Durga Ma’s
-      story helped her reimagine and utilize her anger in constructive, rather than destructive ways. That is a much more compelling take on what it means to be Indian
-      in America, and it came from this low-stakes, meandering process of just writing what comes up.
-    </p>
-
-  <p className="mb-4 text-gray-700 leading-relaxed">
-      So if there’s one piece of advice that I have as you begin your brainstorms, it’s not to brainstorm for an essay topic.
-      Brainstorm first to understand yourself, and then everything else becomes easy.
-    </p>
+          
+          
         </section>
         
         

@@ -55,11 +55,11 @@ export default function VideoPage() {
           </div>
 
            <p className="mb-4 text-gray-700 leading-relaxed">
-            On my first day of 9th grade, my English teacher gave me these three writing prompts, and I am not kidding when I say I return to them at least once a year, sometimes once a month. they are:
+            As many students begin thinking about their college applications, I want to talk about the value of intentional brainstorming. The way we approach our brainstorming can result in personal statements that hit all the right “beats” but still somehow fall flat, and personal statements that immediately make contact with an admissions reader. What separates the two is how we understand and practice brainstorming.
           </p>
 
            <p className="mb-4 text-gray-700">
-            He gave us 10 minutes to write on each.
+            TEXT
           </p>
 
           

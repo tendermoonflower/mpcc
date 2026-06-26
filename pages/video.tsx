@@ -26,29 +26,19 @@ export default function VideoPage() {
         {/* TEXT SECTION */}
 <article className="mx-auto max-w-3xl space-y-14 text-blue-950">
 
-  {/* SECTION 1 */}
-  <section className="space-y-4">
-    <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-blue-950">
-      prompts to start "brainstorming from the side"
-    </h2>
-
-    <div className="text-lg leading-8 text-blue-950/90 space-y-2">
-      <p>1. one</p>
-      <p>2. two</p>
-      <p>3. three</p>
-    </div>
-  </section>
-
-
           {/* SECTION 2 */}
           <section className="space-y-4">
             <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-blue-950">
-              Key Insight
+              rules for brainstorming from the side
             </h2>
 
             <p className="text-lg leading-8 text-blue-950/90">
-              Each section is a contained idea. Instead of one long scroll of text,
-              you now have structured thinking blocks that feel intentional and readable.
+              Don't be afraid to be yourself.
+              have a good time.
+              1. one
+              2. two
+              3. three
+              
             </p>
           </section>
 

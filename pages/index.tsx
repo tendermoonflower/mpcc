@@ -29,7 +29,7 @@ function Hero() {
     { name: "services", href: "#services" },
     { name: "testimonials", href: "#testimonials" },
     { name: "contact me", href: "#contact" },
-    { name: "tips for students", href: "/video" },
+    { name: "tips for students", href: "/tips" },
   ];
 
   return (

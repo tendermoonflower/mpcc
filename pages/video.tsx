@@ -1,124 +1,98 @@
 import Head from "next/head";
 import Image from "next/image";
-import { useState } from "react";
 
 export default function VideoPage() {
-  const [menuOpen, setMenuOpen] = useState(false);
-
   return (
-    <main className="min-h-screen bg-amber-50 pt-24 scroll-smooth text-blue-950">
+    <main className="min-h-screen bg-amber-50 pt-32 scroll-smooth text-blue-950">
       <Head>
         <title>tips for students</title>
       </Head>
 
       {/* HEADER */}
-      <header className="fixed inset-x-0 top-0 z-50 bg-amber-50 border-b border-amber-100">
-        <nav className="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8">
-
-          {/* LOGO */}
-          <div className="flex flex-1">
-            <a href="/" className="flex items-center gap-2">
+      <header className="absolute inset-x-0 top-0 z-50 bg-amber-50">
+        <nav className="mx-auto flex max-w-7xl justify-between p-6 lg:px-8">
+          <div className="flex lg:flex-1">
+            <a href="/" className="-m-1.5 p-1.5">
               <Image
                 className="h-8 w-auto"
                 src="/logo.png"
-                alt="logo"
+                alt=""
                 width={512}
                 height={512}
               />
             </a>
           </div>
 
-          {/* DESKTOP NAV */}
-          <div className="hidden lg:flex lg:gap-x-10">
-            <a href="#video" className="text-sm font-semibold text-rose-600 hover:text-blue-950 transition">
+          <div className="hidden lg:flex lg:gap-x-12">
+            <a
+              href="#video"
+              className="text-sm font-semibold leading-6 text-rose-600 hover:text-blue-950 transition-colors"
+            >
               video
             </a>
-            <a href="#prompts" className="text-sm font-semibold text-rose-600 hover:text-blue-950 transition">
+
+            <a
+              href="#prompts"
+              className="text-sm font-semibold leading-6 text-rose-600 hover:text-blue-950 transition-colors"
+            >
               prompts
             </a>
-            <a href="#rules" className="text-sm font-semibold text-rose-600 hover:text-blue-950 transition">
+
+            <a
+              href="#rules"
+              className="text-sm font-semibold leading-6 text-rose-600 hover:text-blue-950 transition-colors"
+            >
               rules
             </a>
           </div>
-
-          {/* MOBILE BUTTON */}
-          <button
-            onClick={() => setMenuOpen(!menuOpen)}
-            className="lg:hidden flex flex-col gap-1.5"
-            aria-label="Toggle menu"
-          >
-            <span className="w-6 h-0.5 bg-blue-950" />
-            <span className="w-6 h-0.5 bg-blue-950" />
-            <span className="w-6 h-0.5 bg-blue-950" />
-          </button>
         </nav>
-
-        {/* MOBILE MENU */}
-        {menuOpen && (
-          <div className="lg:hidden px-6 pb-4 flex flex-col gap-4 bg-amber-50 border-t border-amber-100">
-            <a onClick={() => setMenuOpen(false)} href="#video" className="text-rose-600 font-semibold">
-              video
-            </a>
-            <a onClick={() => setMenuOpen(false)} href="#prompts" className="text-rose-600 font-semibold">
-              prompts
-            </a>
-            <a onClick={() => setMenuOpen(false)} href="#rules" className="text-rose-600 font-semibold">
-              rules
-            </a>
-          </div>
-        )}
       </header>
 
-            <div className="mx-auto max-w-4xl px-6">
-
+      <div className="mx-auto max-w-4xl px-6">
         {/* PAGE TITLE */}
-        <h1 className="text-3xl sm:text-4xl font-bold text-rose-600 mb-8 leading-tight">
+        <h1 className="text-4xl font-bold text-rose-600 mb-10">
           tips for students
         </h1>
 
         {/* VIDEO */}
-        <section id="video" className="mb-14 scroll-mt-28">
+        <section id="video" className="mb-16">
           <div className="aspect-video w-full">
             <iframe
-              className="w-full h-full rounded-xl sm:rounded-2xl shadow-sm"
+              className="w-full h-full rounded-2xl shadow-sm"
               src="https://drive.google.com/file/d/1G_TxBAZadSxMNNGkjo-XT_4IYHJx9w2F/preview"
               allow="autoplay; encrypted-media"
               allowFullScreen
             />
           </div>
-
-          <p className="mt-4 text-sm text-gray-600 leading-relaxed">
-            Watch the video above, then scroll for prompts and writing rules.
-          </p>
         </section>
 
-                      {/* PROMPTS */}
-        <section id="prompts" className="mb-14 scroll-mt-28">
-          <h2 className="text-xl sm:text-2xl font-semibold mb-4 text-rose-600 leading-snug">
+        {/* PROMPTS */}
+        <section id="prompts" className="mb-16">
+          <h2 className="text-2xl font-semibold mb-4 text-rose-600">
             prompts to start brainstorming from the side
           </h2>
 
-          <p className="mb-4 text-gray-700 leading-relaxed text-base sm:text-lg">
+          <p className="mb-4 text-gray-700 leading-relaxed">
             On my first day of 9th grade, my English teacher gave me these three
             writing prompts, and I am not kidding when I say I return to them at
             least once a year, sometimes once a month. They are:
           </p>
 
-          <ul className="list-disc pl-6 mb-5 space-y-1 text-gray-800 leading-relaxed">
+          <ul className="list-disc pl-6 mb-4 space-y-1 text-gray-800">
             <li>Who are you?</li>
             <li>What are you?</li>
             <li>Why are you?</li>
           </ul>
 
-          <p className="mb-4 text-gray-700 leading-relaxed">
+          <p className="mb-4 text-gray-700">
             He gave us 10 minutes to write on each.
           </p>
 
-          <p className="mb-2 text-gray-700 leading-relaxed">
+          <p className="mb-2 text-gray-700">
             Some other prompts that have been really rich for me are:
           </p>
 
-          <ul className="list-disc pl-6 space-y-2 text-gray-800 leading-relaxed">
+          <ul className="list-disc pl-6 space-y-1 text-gray-800">
             <li>What am I thinking of?</li>
             <li>What am I not thinking of?</li>
             <li>I feel invisible when or because...</li>
@@ -130,13 +104,13 @@ export default function VideoPage() {
           </ul>
         </section>
 
-                      {/* RULES */}
-        <section id="rules" className="mb-20 scroll-mt-28">
-          <h2 className="text-xl sm:text-2xl font-semibold mb-4 text-rose-600 leading-snug">
+        {/* RULES */}
+        <section id="rules" className="mb-16">
+          <h2 className="text-2xl font-semibold mb-4 text-rose-600">
             rules for brainstorming from the side
           </h2>
 
-          <p className="mb-6 text-gray-700 leading-relaxed text-base sm:text-lg">
+          <p className="mb-6 text-gray-700 leading-relaxed">
             The purpose of brainstorming from the side: writing is, above all,
             a practice in reflection. The purpose of brainstorming from the side
             is to follow the breadcrumbs of your thoughts back to your true
@@ -154,7 +128,7 @@ export default function VideoPage() {
             Rules for writing practice:
           </p>
 
-          <ol className="list-decimal pl-6 space-y-4 text-gray-800 leading-relaxed text-base sm:text-lg">
+          <ol className="list-decimal pl-6 space-y-4 text-gray-800 leading-relaxed">
             <li>
               Write by hand. There are a lot of reasons why it is more effective
               to do this type of writing by hand, and I am happy to explain next

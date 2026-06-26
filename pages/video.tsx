@@ -34,15 +34,15 @@ export default function VideoPage() {
 
             <p className="text-lg leading-8 text-blue-950/90">
               1. Who am I?
-2. Who am I not?
-3. What am I thinking?
-4. What am I not thinking?
-5. The last thing I did something for the first time was...
-6. I would never...
-7. The street where you live
-8. Mashed potatoes
-9. I lose track of time when...
-10. It surprises me that ... It surprised me when ...
+              2. Who am I not?
+              3. What am I thinking?
+              4. What am I not thinking?
+              5. The last thing I did something for the first time was...
+              6. I would never...
+              7. The street where you live
+              8. Mashed potatoes
+              9. I lose track of time when...
+              10. It surprises me that ... It surprised me when ...
             </p>
           </section>
 
@@ -54,6 +54,7 @@ export default function VideoPage() {
 
             <p className="text-lg leading-8 text-blue-950/90">
               The purpose of writing practice:
+              
 writing is, above all, a practice in reflection. the purpose of writing practice is to follow the breadcrumbs of your thoughts back to your true self. in allowing your thoughts to arise spontaneously, and without censoring them, you will learn things about yourself that you never knew, or things you thought you forgot. the purpose of writing practice is not even to produce a common app essay. we're not even there yet. we're still trying to figure out who we are, and why we are that way. so don't feel like there is any end-goal. the only goal of writing practice is to follow our thoughts wherever they lead. having no destination, i am never lost. 
 
 Rules for writing practice:

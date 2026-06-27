@@ -44,16 +44,16 @@ export default function VideoPage() {
         <h2 className="text-2xl font-semibold mb-4 text-rose-600">
             the importance of brainstorming from the side
           </h2>
-        <section id="video" className="mb-16">
-          <div className="aspect-video w-full">
-            <iframe
-              className="w-full h-full rounded-2xl shadow-sm"
-              src="https://drive.google.com/file/d/1ZFscJEZfnP9LibQWoLUydS91vM0Qp5nY/preview"
-              allow="autoplay; encrypted-media"
-              allowFullScreen
-            />
-          </div>
-        </section>
+       <section id="video" className="mb-16">
+  <div className="aspect-video w-full">
+    <iframe
+      className="w-full h-full rounded-2xl shadow-sm"
+      src="https://drive.google.com/file/d/1L61gMrIEYGy9keLTN78B7W-8ZPF3w3CB/preview"
+      allow="autoplay; encrypted-media"
+      allowFullScreen
+    />
+  </div>
+</section>
         
         
         {/* SECTION 1 */}

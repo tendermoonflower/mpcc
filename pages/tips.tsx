@@ -48,7 +48,7 @@ export default function VideoPage() {
           <div className="aspect-video w-full">
             <iframe
               className="w-full h-full rounded-2xl shadow-sm"
-              src="https://drive.google.com/file/d/1fuOAHYFHMEtetBoG51pOophAmvAAvXT-/preview"
+              src="https://drive.google.com/file/d/1ZFscJEZfnP9LibQWoLUydS91vM0Qp5nY/preview"
               allow="autoplay; encrypted-media"
               allowFullScreen
             />
@@ -83,10 +83,10 @@ export default function VideoPage() {
           <ul className="list-disc pl-6 space-y-1 text-gray-800">
             <li>What am I thinking of?</li>
             <li>What am I not thinking of?</li>
-            <li>I feel invisible when or because...</li>
-            <li>Something my friends do not even know about me is...</li>
+            <li>"The number 7"</li>
+            <li>The street where you live.</li>
             <li>
-              Write about a first time, the first time you saw someone, the first time you did something...
+             A first time - the first time you saw someone, the first time you did something new...
             </li>
           </ul>
         </section>
@@ -98,7 +98,7 @@ export default function VideoPage() {
           </h2>
 
           <p className="mb-6 text-gray-700 leading-relaxed">
-            The purpose of brainstorming from the side: writing is, above all, a practice in reflection. The purpose of brainstorming from the side is to follow the breadcrumbs of your thoughts back to your true self. In allowing your thoughts to arise spontaneously, and without censoring them, you will learn things about yourself that you never knew, or things you thought you forgot. The purpose of brainstorming from the side is not even to produce a common app essay. we are not even there yet. We are still trying to figure out who we are, and why we are that way. So do not feel like there is any end goal. The only goal of brainstorming from the side is to follow our thoughts wherever they lead. “Having no destination, I am never lost.”
+            The purpose of brainstorming from the side: writing is, above all, a practice in reflection. The purpose of brainstorming from the side is to follow the breadcrumbs of your thoughts back to your true self. In allowing your thoughts to arise spontaneously, and without censoring them, you will learn things about yourself that you never knew, or things you thought you forgot. The purpose of brainstorming from the side is not even to produce a common app essay. We are not even there yet. We are still trying to figure out who we are, and why we are that way. So do not feel like there is any end goal. The only goal of brainstorming from the side is to follow our thoughts wherever they lead. “Having no destination, I am never lost.”
           </p>
 
           <p className="mb-3 font-semibold text-blue-950">

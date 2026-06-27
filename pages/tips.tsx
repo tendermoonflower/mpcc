@@ -98,7 +98,7 @@ export default function VideoPage() {
           </h2>
 
           <p className="mb-6 text-gray-700 leading-relaxed">
-            The purpose of brainstorming from the side: writing is, above all, a practice in reflection. The purpose of brainstorming from the side is to follow the breadcrumbs of your thoughts back to your true self. In allowing your thoughts to arise spontaneously, and without censoring them, you will learn things about yourself that you never knew, or things you thought you forgot. The purpose of brainstorming from the side is not even to produce a common app essay. We are not even there yet. We are still trying to figure out who we are, and why we are that way. So do not feel like there is any end goal. The only goal of brainstorming from the side is to follow our thoughts wherever they lead. “Having no destination, I am never lost.”
+            Good writing comes from good thinking. In allowing your thoughts to arise spontaneously, and without censoring them, you will learn things about yourself that you never knew, or things you thought you forgot. Don't think about producing a personal statement or finding some overarching theme or moral or metaphor. We are not even there yet. We are still trying to figure out who we are and why we are that way. The only goal of brainstorming from the side is to follow our thoughts wherever they lead. “Having no destination, I am never lost.”
           </p>
 
           <p className="mb-3 font-semibold text-blue-950">
